@@ -1,0 +1,24 @@
+    body {
+        text-align: center;
+        padding-top: 100px;
+    }
+    .bio   {
+       width: 100%;
+       height: 100%;
+       background-color: aqua;
+    }
+    .jogos {
+        width: 100%;
+        height: 100%;
+        background-color: rgb(6, 155, 43) ;
+    }
+    .aplicativos {
+        width: 100%;
+        height: 100%;
+        background-color: rgb(187, 190, 3);
+    }
+    .chatbot {
+        width: 100%;
+        height: 100%;
+        background-color: rgb(95, 0, 158);
+    }
